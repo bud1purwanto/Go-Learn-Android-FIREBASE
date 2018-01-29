@@ -20,7 +20,7 @@ MORE FEATURES:
 
 WEAKNESS:
 1. Notification only from Server Side (Firebase Cloud Messaging)
-2. There are notification from client to client 
+2. There are no notification from client to client 
 
 ADMIN
 Email     : budi.purwanto15@gmail.com 
