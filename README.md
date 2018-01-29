@@ -1,15 +1,15 @@
 # Go-Learn-Android-FIREBASE
 
-GROUP NAME (TI-3H):
-1. Budi Purwanto
-2. Febri Norlita
-3. Akhmad Fisabilillah
+GROUP NAME (TI-3H): 
+1. Budi Purwanto              (1541180222)
+2. Febri Norlita Wendiyastuti (1541180001)
+3. Akhmad Fisabilillah        (1541180148)
 
 FEATURES:
 1. Seacrh teachers by Name or City
 2. Search teachers by Location Around
 3. Teacher can deadactive account 
-4. User/Teacher can get direcion of the client
+4. User/Teacher can get direction of the client
 4. Realtime Chatting
 
 MORE FEATURES:
@@ -30,7 +30,7 @@ USER
 Email     : adam@gmail.com 
 Password  : adamadam
 
-PENGAJAR
+TEACHER
 Email     : niko@gmail.com
 Password  : nikoniko
 
