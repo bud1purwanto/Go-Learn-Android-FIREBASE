@@ -23,14 +23,14 @@ WEAKNESS:
 2. There are notification from client to client 
 
 ADMIN
-Email     : budi.purwanto15@gmail.com
+Email     : budi.purwanto15@gmail.com \n
 Password  : mgmamgma
 
 USER
-Email     : adam@gmail.com  
+Email     : adam@gmail.com  \n
 Password  : adamadam
 
 PENGAJAR
-Email     : niko@gmail.com
+Email     : niko@gmail.com \n
 Password  : nikoniko
 
