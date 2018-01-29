@@ -1,6 +1,6 @@
 # Go-Learn-Android-FIREBASE
 
-GROUP NAME:
+GROUP NAME (TI-3H):
 1. Budi Purwanto
 2. Febri Norlita
 3. Akhmad Fisabilillah
