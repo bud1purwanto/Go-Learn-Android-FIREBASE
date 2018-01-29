@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922059411498",
+    "firebase_url": "https://go-learn-6425d.firebaseio.com",
+    "project_id": "go-learn-6425d",
+    "storage_bucket": "go-learn-6425d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922059411498:android:b136d5ae8d6fb8a0",
+        "android_client_info": {
+          "package_name": "com.budi.go_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922059411498-5pa0mqekb3jo5adsi3u2e1qdu92fgq4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budi.go_learn",
+            "certificate_hash": "52c11afa830fbfe615424aae64df3ee972d48019"
+          }
+        },
+        {
+          "client_id": "922059411498-hamedf3fk0nv2jahj2po6va8vbrelj2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxHKOzrRZJmI2vqTUOzXVsG6fdgPXZAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922059411498-hamedf3fk0nv2jahj2po6va8vbrelj2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

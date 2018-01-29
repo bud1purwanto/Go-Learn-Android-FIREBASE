@@ -1,0 +1,4 @@
+#Mon Jan 29 19:10:38 WIB 2018
+base.0=/media/budi/Dell_Data1/Documents/Pemrograman Mobile/Project/UAS/Go-Learn/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
