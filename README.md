@@ -6,9 +6,9 @@ GROUP NAME (TI-3H):
 3. Akhmad Fisabilillah        (1541180148)
 
 FEATURES:
-1. Seacrh teachers by Name or City
+1. Search teachers by Name or City
 2. Search teachers by Location Around
-3. Teacher can deadactive account 
+3. Teacher can deactivate account 
 4. User/Teacher can get direction of the client
 4. Realtime Chatting
 
